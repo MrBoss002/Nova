@@ -1,26 +1,26 @@
 <div align="center">
 
-  <h1>🤖 Nova AI - Multi-Group Telegram Bot</h1>
+  <h1>🤖 Nova - Multi-Group Telegram AI Bot</h1>
   <p>An intelligent Python Telegram bot built with aiogram 3, Google Gemini AI, and MongoDB. Supports natural DM conversations, group mentions, automatic channel post commentary, and interactive mini-games.</p>
 
-  ### 🚀 One-Click Deploy
+### 🚀 One-Click Deploy
 
   <p>
-    <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/MrBoss002/Nova-AI-Bot&branch=main">
-      <img src="https://www.koyeb.com/static/images/deploy/deploy-np.svg" alt="Deploy to Koyeb" height="38">
+    <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/MrBoss002/Nova&branch=main">
+      <img src="https://img.shields.io/badge/Deploy%20to-Koyeb-121019?style=for-the-badge&logo=koyeb&logoColor=white" alt="Deploy to Koyeb" height="32">
     </a>
-    <a href="https://render.com/deploy?repo=https://github.com/MrBoss002/Nova-AI-Bot">
-      <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" height="38">
+    <a href="https://render.com/deploy?repo=https://github.com/MrBoss002/Nova">
+      <img src="https://img.shields.io/badge/Deploy%20to-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Deploy to Render" height="32">
     </a>
-    <a href="https://heroku.com/deploy?template=https://github.com/MrBoss002/Nova-AI-Bot">
-      <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="38">
+    <a href="https://heroku.com/deploy?template=https://github.com/MrBoss002/Nova">
+      <img src="https://img.shields.io/badge/Deploy%20to-Heroku-430090?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy to Heroku" height="32">
     </a>
   </p>
 
   <p>
-    <a href="https://github.com/MrBoss002/Nova-AI-Bot/stargazers"><img src="https://img.shields.io/github/stars/MrBoss002/Nova-AI-Bot?style=for-the-badge&color=0088CC" alt="Stars"/></a>
-    <a href="https://github.com/MrBoss002/Nova-AI-Bot/network/members"><img src="https://img.shields.io/github/forks/MrBoss002/Nova-AI-Bot?style=for-the-badge&color=0088CC" alt="Forks"/></a>
-    <a href="https://github.com/MrBoss002/Nova-AI-Bot/issues"><img src="https://img.shields.io/github/issues/MrBoss002/Nova-AI-Bot?style=for-the-badge&color=0088CC" alt="Issues"/></a>
+    <a href="https://github.com/MrBoss002/Nova/stargazers"><img src="https://img.shields.io/github/stars/MrBoss002/Nova?style=for-the-badge&color=0088CC" alt="Stars"/></a>
+    <a href="https://github.com/MrBoss002/Nova/network/members"><img src="https://img.shields.io/github/forks/MrBoss002/Nova?style=for-the-badge&color=0088CC" alt="Forks"/></a>
+    <a href="https://github.com/MrBoss002/Nova/issues"><img src="https://img.shields.io/github/issues/MrBoss002/Nova?style=for-the-badge&color=0088CC" alt="Issues"/></a>
   </p>
 
 </div>
@@ -61,15 +61,17 @@ ADMIN_ID=YOUR_TELEGRAM_USER_ID
 
 ## 🚀 Getting Started Locally
 
-```bash
 ### 1. Clone the Repository
-git clone [https://github.com/MrBoss002/Nova-AI-Bot.git](https://github.com/MrBoss002/Nova-AI-Bot.git)
-cd Nova-AI-Bot
-
+```
+git clone [https://github.com/MrBoss002/Nova.git](https://github.com/MrBoss002/Nova.git)
+cd Nova
+```
 ### 2. Install Dependencies
+```
 pip install -r requirements.txt
-
+```
 ### 3. Run the Bot
+```
 python bot.py
 ```
 
