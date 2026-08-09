@@ -1,27 +1,27 @@
 <div align="center">
 
-  <h1>🤖 Mr. Boss Userbot</h1>
-  <p>An asynchronous, lightweight Telegram userbot framework built in Python for custom automation, chat management, and dynamic plugin handling.</p>
+  <h1>🤖 Nova - Multi-Group Telegram AI Bot</h1>
+  <p>An intelligent Python Telegram bot built with aiogram 3, Google Gemini AI, and MongoDB. Supports natural DM conversations, group mentions, automatic channel post commentary, and interactive mini-games.</p>
 
 ### 🚀 One-Click Deploy
 
-  <p>
-    <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/MrBoss002/TG-Userbot&branch=main">
-      <img src="https://img.shields.io/badge/Deploy%20to-Koyeb-121019?style=for-the-badge&logo=koyeb&logoColor=white" alt="Deploy to Koyeb" height="32">
-    </a>
-    <a href="https://render.com/deploy?repo=https://github.com/MrBoss002/TG-Userbot">
-      <img src="https://img.shields.io/badge/Deploy%20to-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Deploy to Render" height="32">
-    </a>
-    <a href="https://heroku.com/deploy?template=https://github.com/MrBoss002/TG-Userbot">
-      <img src="https://img.shields.io/badge/Deploy%20to-Heroku-430090?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy to Heroku" height="32">
-    </a>
-  </p>
+  <p>
+    <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/MrBoss002/Nova&branch=main">
+      <img src="https://img.shields.io/badge/Deploy%20to-Koyeb-121019?style=for-the-badge&logo=koyeb&logoColor=white" alt="Deploy to Koyeb" height="32">
+    </a>
+    <a href="https://render.com/deploy?repo=https://github.com/MrBoss002/Nova">
+      <img src="https://img.shields.io/badge/Deploy%20to-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Deploy to Render" height="32">
+    </a>
+    <a href="https://heroku.com/deploy?template=https://github.com/MrBoss002/Nova">
+      <img src="https://img.shields.io/badge/Deploy%20to-Heroku-430090?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy to Heroku" height="32">
+    </a>
+  </p>
 
-  <p>
-    <a href="https://github.com/MrBoss002/TG-Userbot/stargazers"><img src="https://img.shields.io/github/stars/MrBoss002/TG-Userbot?style=for-the-badge&color=0088CC" alt="Stars"/></a>
-    <a href="https://github.com/MrBoss002/TG-Userbot/network/members"><img src="https://img.shields.io/github/forks/MrBoss002/TG-Userbot?style=for-the-badge&color=0088CC" alt="Forks"/></a>
-    <a href="https://github.com/MrBoss002/TG-Userbot/issues"><img src="https://img.shields.io/github/issues/MrBoss002/TG-Userbot?style=for-the-badge&color=0088CC" alt="Issues"/></a>
-  </p>
+  <p>
+    <a href="https://github.com/MrBoss002/Nova/stargazers"><img src="https://img.shields.io/github/stars/MrBoss002/Nova?style=for-the-badge&color=0088CC" alt="Stars"/></a>
+    <a href="https://github.com/MrBoss002/Nova/network/members"><img src="https://img.shields.io/github/forks/MrBoss002/Nova?style=for-the-badge&color=0088CC" alt="Forks"/></a>
+    <a href="https://github.com/MrBoss002/Nova/issues"><img src="https://img.shields.io/github/issues/MrBoss002/Nova?style=for-the-badge&color=0088CC" alt="Issues"/></a>
+  </p>
 
 </div>
 
