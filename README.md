@@ -3,7 +3,7 @@
   <h1>🤖 Nova - Multi-Group Telegram AI Bot</h1>
   <p>An intelligent Python Telegram bot built with aiogram 3, Google Gemini AI, and MongoDB. Supports natural DM conversations, group mentions, automatic channel post commentary, and interactive mini-games.</p>
 
-## 🚀 One-Click Deploy
+### 🚀 One-Click Deploy
 
   <p>
     <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/MrBoss002/Nova&branch=main">
